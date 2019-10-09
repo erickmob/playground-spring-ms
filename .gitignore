@@ -1,0 +1,2 @@
+#exclude files in folders
+./idea/sonarlint/*
