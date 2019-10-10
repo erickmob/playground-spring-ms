@@ -1,2 +1,3 @@
 #exclude files in folders
+./idea/
 ./idea/*
